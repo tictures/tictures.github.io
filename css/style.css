@@ -10,8 +10,9 @@ body {
 	background: url(../img/site_showcase_bg.jpg);
 	background-repeat: no-repeat;
 	background-position: top center;
+	background-color: #333;
 	color: #fff;
-	height: 500px;
+	height: auto;
 	overflow: none;
 	position: relative;
 }
@@ -110,7 +111,6 @@ footer p {
 	.jumbotron {
 		padding-left: 30px !important;
 		padding-right: 50px !important;
-		height: 400px;
 	}
 }
 
