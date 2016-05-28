@@ -30,7 +30,6 @@ body {
 }
 
 .jumbotron img.showcase-img {
-	position: absolute;
 	width: 58.5%;
 }
 
@@ -99,9 +98,6 @@ footer p {
 }
 
 @media(max-width: 1000px){       /*Medium*/
-	img.showcase-img {
-		display: none;
-	}
 	img.app-btn {
 		width: 30% !important;
 	}
