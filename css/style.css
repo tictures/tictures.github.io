@@ -7,8 +7,8 @@ body {
 }
 
 .jumbotron {
-	background: url(../img/site_showcase_bg.jpg);
-	background-repeat: no-repeat;
+	background: url(../img/128-61.jpg);
+	background-repeat: repeat;
 	background-position: top center;
 	background-color: #333;
 	color: #fff;
